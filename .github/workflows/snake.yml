@@ -17,13 +17,10 @@ jobs:
       - name: Hent repoet
         uses: actions/checkout@v4
 
-      - name: Lag SVG fra commit-kartet
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+      - name: Lag animert commit-kart
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/commit_grid.py ${{ github.repository_owner }} dist
 
       - name: Lag statistikkort
         uses: vn7n24fzkq/github-profile-summary-cards@release
