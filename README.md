@@ -14,6 +14,17 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 
 ---
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/commit-grid-dark.svg" />
+  <img src="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/commit-grid.svg" alt="Commit-kart" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 🛠️ Tech stack
 
 **Språk**
@@ -85,19 +96,6 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 
 **Metodikk**
 `Universell utforming` · `Testdrevet utvikling` · `Brukerstyrt utvikling` · `Systemutvikling` · `Smidig / Kanban` · `KI-assistert utvikling`
-
----
-
-## 📈 Commit-kart
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/commit-grid-dark.svg" />
-  <img src="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/commit-grid.svg" alt="Commit-kart" width="100%" />
-</picture>
-
-</div>
 
 ---
 
