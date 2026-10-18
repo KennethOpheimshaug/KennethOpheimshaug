@@ -4,11 +4,24 @@
 
 ### Programvareutvikler · Fullstack med hovedtyngde i frontend
 
+Nysgjerrig og løsningsorientert utvikler med erfaring fra forsikring, offentlig sektor og bygg og anlegg.
+Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Olsen%20Opheimshaug-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-olsen-opheimshaug-6181b13b1)
 [![GitHub](https://img.shields.io/github/followers/KennethOpheimshaug?label=F%C3%B8lg&style=for-the-badge&logo=github&color=181717)](https://github.com/KennethOpheimshaug)
 
 </div>
+
+---
+
+## 🧑‍💻 Om meg
+
+- 💼 **Programvareutvikler siden 2019** – fra Experis Academy via Frende Forsikring til Rainfall / Solea
+- 🏗️ **Arkitekt og utvikler** på selvbetjeningsportaler for Bergen kommune og Allier Gruppen
+- 🎨 Bred fullstack-erfaring, med **frontend og universell utforming** som spesialfelt
+- 🧪 Trives med **testdrevet og brukerstyrt utvikling** i smidige, tverrfaglige team
+- 🎓 Bachelor i **informasjonsvitenskap** (UiB) og **eiendomsmegling** (BI)
+- 🌱 Liker å lære – og like mye å dele det jeg kan med teamet
 
 ---
 
@@ -52,11 +65,10 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2ea44f/KennethOpheimshaug" alt="Kenneths GitHub-bidrag" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KennethOpheimshaug&theme=github-compact&hide_border=true&area=true" alt="Aktivitetsgraf" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/github-snake.svg" alt="Commit-kart" width="100%" />
+</picture>
 
 </div>
 
@@ -66,14 +78,53 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KennethOpheimshaug&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub-statistikk" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethOpheimshaug&layout=compact&theme=transparent&hide_border=true" alt="Mest brukte språk" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=KennethOpheimshaug&theme=transparent&hide_border=true" alt="Commit-streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub-statistikk" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Mest brukte språk" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Når på døgnet jeg committer" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repoer per språk" width="49%" />
+</picture>
 
 </div>
+
+---
+
+## 💼 Erfaring
+
+| Periode | Rolle | Arbeidsgiver |
+|---|---|---|
+| 2024 – 2026 | Programvareutvikler | **Rainfall AS / Solea AS** |
+| 2021 – 2023 | Programvareutvikler | **Frende Forsikring AS** |
+| 2019 – 2021 | Fullstack-utvikler | **Experis AS** (Experis Academy, konsulent i Frende) |
+
+### 🚀 Utvalgte oppdrag
+
+| Kunde | Prosjekt | Rolle |
+|---|---|---|
+| **Bergen kommune** | Selvbetjeningsportal – Boei | Arkitekt og utvikler |
+| **Framo AS** | Videreutvikling av integrasjon mot databasesystem | Utvikler |
+| **Allier Gruppen AS** | Selvbetjeningsportal | Arkitekt og utvikler |
+| **Dynamon AS** | Fraværspredikator | Utvikler |
+| **Frende Forsikring** | Meld skade – personskade, utett bygg, reisegods og eneuhell bil | Frontend-/fullstack-utvikler, opplæringsansvarlig |
+
+---
+
+## 🎓 Utdanning og sertifiseringer
+
+- **Bachelor i informasjonsvitenskap** – Universitetet i Bergen (2017–2019)
+- **Bachelor i eiendomsmegling** – BI (2008–2011)
+- **Microsoft Exam 480** – Programming in HTML5 with JavaScript and CSS3 (2020)
+- Kurs: *The Joy of React* (2024) · *React – The Complete Guide* (2020)
 
 ---
 
