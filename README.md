@@ -104,18 +104,10 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 ## 📊 GitHub-statistikk
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub-statistikk" width="49%" />
-</picture>
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
   <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Mest brukte språk" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
-  <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Når på døgnet jeg committer" width="49%" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
