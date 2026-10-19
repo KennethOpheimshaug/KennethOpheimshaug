@@ -25,19 +25,23 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publiser commit-kartet til output-grenen
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Lag statistikkort
-        # Feiler når kortene er uendret (ingenting å committe) – det er greit
-        continue-on-error: true
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          AUTO_PUSH: false
+
+      - name: Legg statistikkortene sammen med commit-kartet
+        run: cp -r profile-summary-card-output dist/
+
+      - name: Publiser til output-grenen
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          author: Kenneth Olsen Opheimshaug <34934824+KennethOpheimshaug@users.noreply.github.com>
+          committer: Kenneth Olsen Opheimshaug <34934824+KennethOpheimshaug@users.noreply.github.com>
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
