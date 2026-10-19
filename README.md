@@ -17,8 +17,8 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/commit-grid-dark.svg" />
-  <img src="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/commit-grid.svg" alt="Commit-kart" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/KennethOpheimshaug/KennethOpheimshaug/output/github-snake.svg" alt="Commit-kart" width="100%" />
 </picture>
 
 </div>
