@@ -88,10 +88,11 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 
 **Verktøy**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark" height="48" alt="Git, GitHub, Visual Studio, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,rider,pycharm&theme=dark" height="48" alt="Git, GitHub, Visual Studio, VS Code, JetBrains Rider, JetBrains PyCharm" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
 </p>
 
 **Metodikk**
