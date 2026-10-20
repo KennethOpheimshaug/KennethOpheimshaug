@@ -95,9 +95,6 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
 </p>
 
-**Metodikk**
-`Universell utforming` · `Testdrevet utvikling` · `Brukerstyrt utvikling` · `Systemutvikling` · `Smidig / Kanban` · `KI-assistert utvikling`
-
 ---
 
 ## 📊 GitHub-statistikk
