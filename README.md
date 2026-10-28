@@ -2,10 +2,7 @@
 
 # Hei, jeg er Kenneth 👋
 
-### Programvareutvikler · Fullstack med hovedtyngde i frontend
-
-Nysgjerrig og løsningsorientert utvikler med erfaring fra forsikring, offentlig sektor og bygg og anlegg.
-Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
+### Programvareutvikler · Fullstack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Olsen%20Opheimshaug-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-olsen-opheimshaug-6181b13b1)
 [![GitHub](https://img.shields.io/github/followers/KennethOpheimshaug?label=F%C3%B8lg&style=for-the-badge&logo=github&color=181717)](https://github.com/KennethOpheimshaug)
@@ -25,7 +22,7 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Språk**
 <p>
@@ -97,7 +94,7 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 
 ---
 
-## 📊 GitHub-statistikk
+##  GitHub-statistikk
 
 <div align="center">
   
@@ -114,7 +111,7 @@ Det beste jeg vet er å lage løsninger som mange mennesker bruker hver dag.
 
 ---
 
-## 🎓 Utdanning og sertifiseringer
+##  Utdanning og sertifiseringer
 
 - **Bachelor i informasjonsvitenskap** – Universitetet i Bergen (2017–2019)
 - **Bachelor i eiendomsmegling** – BI (2008–2011)
