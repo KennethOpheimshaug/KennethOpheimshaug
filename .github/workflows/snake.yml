@@ -28,7 +28,8 @@ jobs:
       - name: Lag statistikkort
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # PROFILE_TOKEN gir tilgang til private repoer; uten den telles bare offentlige
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           AUTO_PUSH: false
